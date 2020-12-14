@@ -32,7 +32,7 @@ public class CalculsTest {
 
     @Test
     void testAdditionner() {
-        if (c1.additionner() != 4)
+        if (c1.additionner() != 3)
         {
             fail("Méthode additionner incorrecte");
         }
